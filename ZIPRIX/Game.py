@@ -6,7 +6,7 @@ import time
 GAME NAME:
 ZIPRIX
 ----------------
-Students: 
+Creators: 
 EMIR YORGUN
 EKIN BUSE AKBAYDOGAN
 '''
