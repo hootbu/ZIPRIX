@@ -3,13 +3,12 @@ import random
 import time
 
 '''
-EEE 103 INTRO TO PROGRAMMING_GUZ2021
 GAME NAME:
 ZIPRIX
 ----------------
 Students: 
-EMIR YORGUN 2106102066
-EKIN BUSE AKBAYDOGAN 2006102023
+EMIR YORGUN
+EKIN BUSE AKBAYDOGAN
 '''
 
 #Some values
@@ -20,7 +19,6 @@ neoHeight= 70
 neoWidth = 120
 buildingWidth = 100
 neoVal = 200
-buildingVal = 10
 delay = 0.02
 space_with_builds = 80
 
@@ -119,7 +117,6 @@ def restartGame():
                 canvas.delete_all()
                 restartGame = 0
                 main()
-            time.sleep(delay)
         time.sleep(delay)
         canvas.update()
 
