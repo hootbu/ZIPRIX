@@ -6,9 +6,8 @@ import time
 GAME NAME:
 ZIPRIX
 ----------------
-Creators: 
+Creator: 
 EMIR YORGUN
-EKIN BUSE AKBAYDOGAN
 '''
 
 #Some values
